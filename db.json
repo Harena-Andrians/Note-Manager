@@ -1,0 +1,65 @@
+{
+    "notes": [
+      {
+        "id": 1,
+        "title": "Réunion d'équipe",
+        "content": "Préparer l'ordre du jour pour la réunion d'équipe de demain.",
+        "created_at": "24/08/2022"
+      },
+      {
+        "id": 2,
+        "title": "Liste des courses",
+        "content": "Acheter des fruits, du lait, du pain et des légumes.",
+        "created_at": "25/08/2022"
+      },
+      {
+        "id": 3,
+        "title": "Projet client A",
+        "content": "Réviser la proposition de projet pour le client A.",
+        "created_at": "26/08/2022"
+      },
+      {
+        "id": 4,
+        "title": "Idées pour le blog",
+        "content": "Brainstorming d'idées pour les prochains articles de blog.",
+        "created_at": "27/08/2022"
+      },
+      {
+        "id": 5,
+        "title": "Objectifs hebdomadaires",
+        "content": "Définir les objectifs pour la semaine à venir.",
+        "created_at": "28/08/2022"
+      },
+      {
+        "id": 6,
+        "title": "Plan d'entraînement",
+        "content": "Élaborer un plan d'entraînement pour la semaine.",
+        "created_at": "29/08/2022"
+      },
+      {
+        "id": 7,
+        "title": "Livre à lire",
+        "content": "Ajouter 'Sapiens' à la liste des livres à lire.",
+        "created_at": "30/08/2022"
+      },
+      {
+        "id": 8,
+        "title": "Idées de vacances",
+        "content": "Explorer des destinations pour les prochaines vacances.",
+        "created_at": "31/08/2022"
+      },
+      {
+        "id": 9,
+        "title": "Projet de jardin",
+        "content": "Planifier les étapes du nouveau projet de jardin.",
+        "created_at": "01/09/2022"
+      },
+      {
+        "id": 10,
+        "title": "Cours en ligne",
+        "content": "Inscrire aux cours en ligne sur la programmation avancée.",
+        "created_at": "02/09/2022"
+      }
+    ]
+  }
+  

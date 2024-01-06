@@ -1,0 +1,92 @@
+.container{
+    width: 80%;
+    background-color: #fff;
+    margin: 50px auto;
+    padding: 50px;
+    border-radius: 20px;
+}
+.head{
+    display: flex;
+    margin-bottom: 20px;
+}
+.titre{
+    color:#12355b;
+    flex: 7;
+}
+.icon1{
+    flex: 1;
+}
+.icon1:hover{
+    color: #d48026;
+}
+
+.icon2{
+    flex: 1;
+}
+.icon2:hover{
+    color: #dc3545;
+}
+
+.title{
+    margin-bottom: 40px;
+}
+.title>label{
+    display: block;
+    font-size: 20px;
+}
+.title>input{
+    width: 100%;
+    max-width: 300px;
+    display: block;
+    padding: 7px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #f0ecfc;
+}
+.title>input:focus{
+    border: 1px solid #12355b;
+    outline: none;
+}
+.content{
+    margin-bottom: 40px;
+}
+.content>label{
+    font-size: 20px;
+    display: block;
+}
+
+.content>textarea{
+    width: 100%;
+    display: block;
+    height: 18vw;
+    border-radius: 10px;
+    padding: 7px 15px;
+    border: none;
+    background-color: #f0ecfc;
+}
+.content>textarea:focus{
+    border: 1px solid #12355b;
+    outline: none;
+}
+
+.textContent{
+    overflow: hidden;
+    white-space: pre-wrap;
+    font-size:16px;
+}
+.button{
+    border: none;
+    background-color:#12355b ;
+    color: white;
+    padding: 10px 50px;
+    border-radius: 12px;
+    font-size: 20px;   
+}
+
+.button:hover{
+    background-color: #215996;
+}
+.button:disabled{
+    background-color: #75a8df;
+    cursor: default;
+}

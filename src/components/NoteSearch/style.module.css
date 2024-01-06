@@ -1,0 +1,28 @@
+.container{
+    display: block;
+    /* padding: 10px; */
+    margin: auto;
+    width: 80%;
+    max-width: 500px;
+    border: 2px solid #12355b;
+    background-color: #f0ecfc;
+    margin-top: 20px;
+    border-radius: 20px;
+    position: relative;
+}
+.search{
+    height: 100%;
+    width: 100%;
+    padding: 10px 50px;
+    border:none;
+    border-radius: 20px;
+}
+.search:focus{
+    outline: none;
+}
+.icon{
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 9px;
+    color: #12355b;
+}
