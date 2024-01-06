@@ -14,7 +14,6 @@
 ### Install the dependencies:
 ```bash
 npm i
-npm start
 ```
 ### Start json-server to simulate an API:
 ```bash
