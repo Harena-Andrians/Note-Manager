@@ -15,6 +15,10 @@
 ```bash
 npm i
 ```
+### Install json-server Globally
+```bash
+npm install -g json-server
+```
 ### Start json-server to simulate an API:
 ```bash
 npm run json-server
